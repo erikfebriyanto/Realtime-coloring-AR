@@ -7,7 +7,8 @@ Tools and package:
 - Vuforia
 - Region Capture 2.2.5
 
-Apk minimum OS:
+APK download : https://drive.google.com/file/d/1EaGfEAT_LWO2eZcvbR7Xi3x-14YCoyNb/view?usp=sharing
+Minimum OS:
 - Android 5.1 (Lolipop)
 
 Source Region Capture:
